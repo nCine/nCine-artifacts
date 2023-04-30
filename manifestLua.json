@@ -1,0 +1,17 @@
+{
+  "git_revision": "eeb937f079a9bcb5d103b9281f8689ff21282628",
+  "artifacts": {
+    "installer": {
+      "filename": "nCineLua-2026.10.r1-eeb937f-Win64-VS2022.exe",
+      "size": 2444280,
+      "timestamp": "2026-10-18T18:04:09Z",
+      "sha256": "092b6ded62eff893e3db8649f93283c1d98f4a6831ba80ce056994d6212dc992"
+    },
+    "portable": {
+      "filename": "nCineLua-2026.10.r1-eeb937f-Win64-VS2022.zip",
+      "size": 2917774,
+      "timestamp": "2026-10-18T18:04:09Z",
+      "sha256": "e70a0a0271f88741b1a66ca12095387003e04f12a94d2590cb5a13f5d6916275"
+    }
+  }
+}

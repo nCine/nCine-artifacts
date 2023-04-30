@@ -1,0 +1,17 @@
+{
+  "git_revision": "eeb937f079a9bcb5d103b9281f8689ff21282628",
+  "artifacts": {
+    "installer": {
+      "filename": "nCine-2026.10.r1-eeb937f-Win64-VS2022.exe",
+      "size": 15443807,
+      "timestamp": "2026-10-18T18:06:04Z",
+      "sha256": "3f5015f649a7c9fd1e4ad07ab3a924cfdc379fb09404f4af87922d8a2b4abe60"
+    },
+    "portable": {
+      "filename": "nCine-2026.10.r1-eeb937f-Win64-VS2022.zip",
+      "size": 23242246,
+      "timestamp": "2026-10-18T18:06:07Z",
+      "sha256": "7476d5d8f871f45f62f490413dfb602b846aadf69e8070f3670ded99e9099a0c"
+    }
+  }
+}
